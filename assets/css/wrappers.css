@@ -1,0 +1,43 @@
+﻿.nopadding{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.nomargin{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.fullResolution{
+    height: 100vh;
+}
+
+.textCenterVertically{
+    bottom: 55%;
+}
+
+.upperMargin{
+    margin-top: 30px !important;
+}
+
+.icon {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.icon-account-login {
+  fill: #f00;
+}
+
+.bkGrey{
+  background-color: #f2f2f2;
+}
+
+.box{
+    padding: 20px; 
+    background-color: #ffffff;
+}
+
+.skillsmargin{
+    padding-top: 10px !important;
+}
